@@ -8,7 +8,7 @@ gsa:
   replicas: 2
   image:
     repository: elysiansky/capstone-openvas-gsa
-    tag: b571c67-amd64
+    tag: 5d0d026-amd64
   service:
     type: ClusterIP
   resources:
